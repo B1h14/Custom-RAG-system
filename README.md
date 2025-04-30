@@ -31,4 +31,3 @@ The Interface.bat file executes the streamlit interface directly
 You need to insert the file paths manually in the file Parsing.py  , the files treated are in pdf format and the system works ideally with a small number of files
 
 
-T
